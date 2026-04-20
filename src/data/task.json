@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Learn JavaScript Basics",
+    "description": "Complete variables, functions, and loops",
+    "status": "in-progress",
+    "priority": "high"
+  },
+  {
+    "id": 2,
+    "title": "Build To-Do App",
+    "description": "Create a simple CRUD to-do application",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "id": 3,
+    "title": "Study React Components",
+    "description": "Understand props, state, and lifecycle",
+    "status": "completed",
+    "priority": "high"
+  },
+  {
+    "id": 4,
+    "title": "Practice CSS Flexbox",
+    "description": "Build responsive layouts using flexbox",
+    "status": "in-progress",
+    "priority": "medium"
+  },
+  {
+    "id": 5,
+    "title": "Learn API Integration",
+    "description": "Fetch data using REST API",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "id": 6,
+    "title": "Build Portfolio Website",
+    "description": "Showcase projects and skills",
+    "status": "in-progress",
+    "priority": "high"
+  },
+  {
+    "id": 7,
+    "title": "Learn Git & GitHub",
+    "description": "Version control and collaboration basics",
+    "status": "completed",
+    "priority": "medium"
+  },
+  {
+    "id": 8,
+    "title": "Practice JavaScript Array Methods",
+    "description": "map, filter, reduce, forEach",
+    "status": "completed",
+    "priority": "low"
+  },
+  {
+    "id": 9,
+    "title": "Learn Next.js Basics",
+    "description": "Routing, SSR, and API routes",
+    "status": "in-progress",
+    "priority": "high"
+  },
+  {
+    "id": 10,
+    "title": "Debug Code Issues",
+    "description": "Fix errors in existing projects",
+    "status": "pending",
+    "priority": "medium"
+  }
+]
